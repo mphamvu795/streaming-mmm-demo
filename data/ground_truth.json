@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "alpha": 0.4,
+    "total_signups": 181664.37040016602,
+    "total_spend": 28401000.0,
+    "cost_per_signup": 156.3377559256058
+  },
+  "tiktok": {
+    "alpha": 0.2,
+    "total_signups": 96654.51852557635,
+    "total_spend": 14720000.0,
+    "cost_per_signup": 152.2950010464834
+  },
+  "youtube": {
+    "alpha": 0.6,
+    "total_signups": 65136.368242959536,
+    "total_spend": 18389800.0,
+    "cost_per_signup": 282.32768415036276
+  },
+  "search": {
+    "alpha": 0.1,
+    "total_signups": 142210.27605207253,
+    "total_spend": 9328700.0,
+    "cost_per_signup": 65.59793187226603
+  }
+}

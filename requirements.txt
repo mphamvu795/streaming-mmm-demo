@@ -1,0 +1,6 @@
+pymc-marketing==1.5.0
+numpyro==0.22.0
+jax==0.12.1
+matplotlib
+pandas
+scipy
